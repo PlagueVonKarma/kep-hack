@@ -229,7 +229,7 @@ Many non-multiplayer, non-battle related bugs have been fixed. Battle-related bu
 - Some grammar tweaks have been made (eg. If a move is disabled, it now has an upper-case D instead of a lower-case one.)
 - Blaine is no longer addicted to Super Potions.
 - CoolTrainerF no longer switches a lot.
-- Transformed Pokemon aren't presumed to be Dittos! Mew and Animon function correctly with this at play.
+- Transformed Pokemon aren't presumed to be Dittos! Mew and Mimmeo function correctly with this at play.
 - Status curing items don't remove modifiers anymore.
 - Learning new moves plays the sound in the correct bank.
 - Falling through a hole on a bike now properly resets the music, as you fall off a bike when going down.
@@ -311,7 +311,7 @@ Kanto Prototype Pokemon:
 - Cheep -> Jabetta | L30
 - Coinpur -> Meowth | L14
 - Decilla -> Gawarhed | L40
-- Gyopin -> Goldeen | L16
+- Orfry -> Goldeen | L16
 - Gentlarva -> Pupal | L7
 - Pupal -> Carapthor | L10
 - Kotora -> Gaotora -> Gorotora | L16, L36
